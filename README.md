@@ -7,7 +7,9 @@ cd mobilecuts
 
 virtualenv venv -p python3
 
-source env/bin/activate
+. env/bin/activate
+
+pip install Django
 
 pip install -r requirements/development.txt # this is not required as of yet until configured properly
 
