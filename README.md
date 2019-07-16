@@ -1,7 +1,7 @@
 # mobile cuts django application code
 setup virutalenv for development
 
-git clone repo
+git clone https://github.com/moble-cuts/mobilecuts.git
 
 cd mobilecuts
 
