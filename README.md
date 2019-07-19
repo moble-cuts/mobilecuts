@@ -11,7 +11,7 @@ virtualenv venv -p python3
 
 pip install Django
 
-pip install -r requirements/development.txt # this is not required as of yet until configured properly
+pip install -r requirements.txt # this is not required as of yet until configured properly
 
 python manage.py migrate
 
